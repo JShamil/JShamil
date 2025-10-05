@@ -33,11 +33,11 @@ Supervised multiple student projects focusing on applied ML, data visualization,
 
 ### 🌱 Currently Exploring
 
-Generative AI tools for education
+- Generative AI tools for education
 
-AI ethics and responsible model deployment
+- AI ethics and responsible model deployment
 
-Advanced NLP and multimodal models
+- Advanced NLP and multimodal models
 
 📫 Let’s Connect!
 
